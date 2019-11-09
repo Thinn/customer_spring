@@ -1,0 +1,147 @@
+DEBUG   2019-11-09 17:58:00,705 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::AllexOhm
+DEBUG   2019-11-09 17:58:00,706 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 513
+DEBUG   2019-11-09 17:58:00,706 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::Blk 512
+DEBUG   2019-11-09 17:58:00,706 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::Allex1Ohm1
+DEBUG   2019-11-09 17:58:00,706 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 513
+DEBUG   2019-11-09 17:58:00,707 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::Blk 512
+DEBUG   2019-11-09 17:58:00,707 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+DEBUG   2019-11-09 17:58:00,707 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::null
+DEBUG   2019-11-09 17:58:00,707 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::ThinnThinn
+DEBUG   2019-11-09 17:58:00,707 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+DEBUG   2019-11-09 17:58:00,707 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::null
+INFO    2019-11-09 17:58:59,122 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::AllexOhm
+INFO    2019-11-09 17:58:59,125 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 513
+INFO    2019-11-09 17:58:59,125 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::Blk 512
+INFO    2019-11-09 17:58:59,125 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::Allex1Ohm1
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 513
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::Blk 512
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::null
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::ThinnThinn
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::null
+INFO    2019-11-09 17:58:59,126 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:00:38,503 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::AllexOhm
+INFO    2019-11-09 18:00:38,506 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address Size::1
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 513
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::Blk 512
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::Allex1Ohm1
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address Size::2
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 513
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::Blk 512
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::null
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:00:38,507 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::ThinnThinn
+INFO    2019-11-09 18:00:38,508 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address Size::1
+INFO    2019-11-09 18:00:38,508 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 18:00:38,508 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address2::null
+INFO    2019-11-09 18:00:38,508 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:16:11,518 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:28:12,894 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Customer:: 
+INFO    2019-11-09 18:28:12,897 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Create New Customer:: 
+INFO    2019-11-09 18:28:12,983 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Delivery Address By CustomerId:: 
+INFO    2019-11-09 18:28:12,983 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Customer By Id:: 
+INFO    2019-11-09 18:28:12,983 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:28:13,302 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Save Delivery:: 
+INFO    2019-11-09 18:29:07,944 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Customer:: 
+INFO    2019-11-09 18:29:07,952 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Customer By Id:: 
+INFO    2019-11-09 18:29:08,425 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - update customer::
+INFO    2019-11-09 18:29:21,279 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Customer:: 
+INFO    2019-11-09 18:29:21,282 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Customer By Id:: 
+INFO    2019-11-09 18:29:21,588 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - update customer::
+INFO    2019-11-09 18:29:48,245 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Customer:: 
+ERROR   2019-11-09 18:29:48,247 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Customer cannot be found::
+INFO    2019-11-09 18:30:23,110 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Customer:: 
+ERROR   2019-11-09 18:30:23,111 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Customer cannot be found::
+INFO    2019-11-09 18:31:19,744 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Customer:: 
+ERROR   2019-11-09 18:31:19,750 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - didn't pass Customer Id::
+INFO    2019-11-09 18:31:57,793 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Customer:: 
+INFO    2019-11-09 18:31:57,796 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Customer By Id:: 
+INFO    2019-11-09 18:31:58,297 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - update customer::
+INFO    2019-11-09 18:32:32,490 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Customer:: 
+ERROR   2019-11-09 18:32:32,494 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Exiting Customer:: 
+INFO    2019-11-09 18:32:32,494 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Delivery Address By CustomerId:: 
+INFO    2019-11-09 18:32:32,494 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert new Customer:: 
+INFO    2019-11-09 18:32:32,494 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Customer:: 
+ERROR   2019-11-09 18:32:32,494 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Exiting Customer:: 
+ERROR   2019-11-09 18:32:32,494 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Customer cannot be found:: 
+INFO    2019-11-09 18:34:09,292 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Delivery Address By CustomerId:: 
+INFO    2019-11-09 18:34:09,294 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Customer By Id:: 
+INFO    2019-11-09 18:34:09,294 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:34:09,489 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Save Delivery:: 
+INFO    2019-11-09 18:34:55,178 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Delivery Address By Id:: 
+INFO    2019-11-09 18:34:55,181 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Delivery Address By Id:: 
+INFO    2019-11-09 18:34:55,597 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Save Delivery Address:: 
+INFO    2019-11-09 18:35:14,024 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Update Delivery Address By Id:: 
+INFO    2019-11-09 18:35:14,027 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Delivery Address By Id:: 
+ERROR   2019-11-09 18:35:14,322 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Delivery Address cannot be found:: 
+INFO    2019-11-09 18:35:47,285 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - delete Delivery Address By Id:: 
+INFO    2019-11-09 18:35:47,286 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Delivery Address By Id:: 
+ERROR   2019-11-09 18:35:47,716 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Delivery Address cannot be found:: 
+INFO    2019-11-09 18:36:09,761 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - delete Delivery Address By Id:: 
+INFO    2019-11-09 18:36:09,762 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Delivery Address By Id:: 
+INFO    2019-11-09 18:36:10,079 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Delete Delivery Address:: 
+INFO    2019-11-09 18:36:55,361 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Insert Delivery Address By CustomerId:: 
+INFO    2019-11-09 18:36:55,364 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find Customer By Id:: 
+INFO    2019-11-09 18:36:55,365 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:36:55,681 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Save Delivery:: 
+INFO    2019-11-09 18:37:28,220 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find all customers::
+INFO    2019-11-09 18:37:28,575 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::HlaingThinn
+INFO    2019-11-09 18:37:28,575 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 18:37:28,575 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 18:37:28,575 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:38:26,658 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find all customers::
+INFO    2019-11-09 18:38:26,993 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::HlaingThinn
+INFO    2019-11-09 18:38:26,993 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 18:38:26,993 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::Blk 789
+INFO    2019-11-09 18:38:26,994 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:38:26,994 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::Wai
+INFO    2019-11-09 18:38:26,994 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::erqer
+INFO    2019-11-09 18:38:26,994 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::rtwrt
+INFO    2019-11-09 18:38:26,994 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:38:55,610 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:38:55,928 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::Wai
+INFO    2019-11-09 18:38:55,929 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::erqer
+INFO    2019-11-09 18:38:55,929 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::rtwrt
+INFO    2019-11-09 18:38:55,929 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:39:19,063 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find all delivery addresses:: 
+INFO    2019-11-09 18:39:19,382 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer ::HlaingThinn
+INFO    2019-11-09 18:39:19,382 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 1::Blk 789
+INFO    2019-11-09 18:39:19,382 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 2::Clementi
+INFO    2019-11-09 18:39:19,382 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:39:19,382 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer ::HlaingThinn
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 1::Blk 789
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 2::null
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer ::Wai
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 1::erqer
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 2::null
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer ::Wai
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 1::rtwrt
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Address 2::null
+INFO    2019-11-09 18:39:19,383 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:39:42,483 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find delivery addresses by customer Id:: 
+INFO    2019-11-09 18:39:42,499 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:41:43,660 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find delivery addresses by customer Id:: 
+INFO    2019-11-09 18:41:43,662 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+ERROR   2019-11-09 18:41:44,103 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Customer cannot be found:: 
+INFO    2019-11-09 18:43:32,453 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find delivery addresses by customer Id:: 
+INFO    2019-11-09 18:43:32,456 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+ERROR   2019-11-09 18:43:32,793 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Customer cannot be found:: 
+INFO    2019-11-09 18:43:32,793 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:45:14,530 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Find delivery addresses by customer Id:: 
+INFO    2019-11-09 18:45:14,533 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - find customer by customer id::
+INFO    2019-11-09 18:45:14,921 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::erqer
+INFO    2019-11-09 18:45:14,923 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::erqer
+INFO    2019-11-09 18:45:14,923 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Name::rtwrt
+INFO    2019-11-09 18:45:14,923 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - Customer Address1::rtwrt
+INFO    2019-11-09 18:45:14,923 [main] com.sg.customerinfo.CustomerInfoApplicationTests  - -----------------------------
+INFO    2019-11-09 18:46:14,499 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - delete Customer By Id:: 
+ERROR   2019-11-09 18:46:14,782 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Customer cannot be found:: 
+INFO    2019-11-09 18:46:32,961 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - delete Customer By Id:: 
+INFO    2019-11-09 18:46:33,295 [main] com.sg.customerinfo.service.impl.CustomerServiceImpl  - Removing Customer:: 
